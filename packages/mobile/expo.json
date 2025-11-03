@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "SevaSahayak",
+    "slug": "seva-sahayak",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "sdkVersion": "54.0.0",
+    "entryPoint": "index.js",
+    "platforms": ["ios","android","web"],
+    "updates": { "fallbackToCacheTimeout": 0 },
+    "assetBundlePatterns": ["**/*"],
+    "ios": { "supportsTablet": true },
+    "android": { "package": "com.example.sevasahayak" }
+  }
+}
